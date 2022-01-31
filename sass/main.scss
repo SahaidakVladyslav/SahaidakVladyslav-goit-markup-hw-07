@@ -1,0 +1,10 @@
+@import './base/normalize';
+@import './utils/mixins';
+@import './utils/placeholders';
+@import './utils/variables';
+@import './components/logo';
+@import './components/_cellar';
+
+body {
+  background-color: $accent-color;
+}
